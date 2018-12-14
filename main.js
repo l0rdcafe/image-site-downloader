@@ -1,5 +1,4 @@
 const fs = require("fs");
-const https = require("https");
 const { exec } = require("child_process");
 const ProgressBar = require("progress");
 const chalk = require("chalk");
